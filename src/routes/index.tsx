@@ -45,6 +45,8 @@ const CATEGORIES: { value: TaskCategory; label: string; color: string; bg: strin
   { value: 'props', label: 'Props', color: 'text-amber-700', bg: 'bg-amber-100' },
   { value: 'script', label: 'Script', color: 'text-blue-700', bg: 'bg-blue-100' },
   { value: 'crew', label: 'Crew', color: 'text-rose-700', bg: 'bg-rose-100' },
+  { value: 'budget', label: 'Budget', color: 'text-green-700', bg: 'bg-green-100' },
+  { value: 'sceduale', label: 'Sceduale', color: 'text-yellow-700', bg: 'bg-yellow-100' },
   { value: 'equipment', label: 'Equipment', color: 'text-cyan-700', bg: 'bg-cyan-100' },
   { value: 'post-production', label: 'Post-Production', color: 'text-indigo-700', bg: 'bg-indigo-100' },
 ]
