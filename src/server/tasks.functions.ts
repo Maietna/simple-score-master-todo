@@ -7,6 +7,8 @@ export type TaskCategory =
   | 'props'
   | 'script'
   | 'crew'
+  | 'budget'
+  | 'sceduale'
   | 'equipment'
   | 'post-production'
 
